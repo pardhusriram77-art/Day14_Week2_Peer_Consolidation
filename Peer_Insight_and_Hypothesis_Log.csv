@@ -1,0 +1,2 @@
+discussion_date,peer_or_team,peer_insight_actual,how_it_changes_my_work,own_hypothesis,status
+TO_FILL,TO_FILL,REPLACE_WITH_THE_ACTUAL_INSIGHT_SHARED_BY_A_PEER,RECORD_THE_ACTION_YOU_TAKE,"Lag/rolling features may change model results, but synthetic timestamps may create artificial temporal patterns.",Draft hypothesis; not yet tested
